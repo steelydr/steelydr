@@ -5,11 +5,8 @@ I'm [Your Name], a passionate developer constantly learning and working on excit
 - 🔭 I’m currently working on **[Your Current Project](https://collabculturevk.com/)**, an innovative project that [brief description of what it does].
 - 🌱 I’m currently learning **[Technology/Skill]**, focusing on improving my [specific area you're learning].
 - 👯 I’m looking to collaborate on **open source projects** and **community-driven initiatives**.
-- 🤔 I’m looking for help with **[specific area where you want help, e.g., advanced cloud-native applications]**.
 - 💬 Ask me about **Spring Boot**, **React**, **Docker**, or **Data Science**—I'm always happy to share knowledge!
 - 📫 How to reach me: **[Your Email](mailto:dsoni071rajeswari@example.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/rajeswarid)**.
-- 😄 Pronouns: **[Your Pronouns, e.g., she/her, they/them]**.
-- ⚡ Fun fact: I love exploring new technologies and [hobby or fun fact, e.g., "binge-watching sci-fi shows"].
 
 ---
 
