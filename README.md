@@ -3,7 +3,7 @@
 I'm [Your Name], a passionate developer constantly learning and working on exciting projects in software development and data science. Welcome to my GitHub profile! Here's a bit more about me:
 
 - 🔭 I’m currently working on **[Your Current Project](https://collabculturevk.com/)**, an innovative project that [brief description of what it does].
-- 🌱 I’m currently learning **[Technology/Skill]**, focusing on improving my [specific area you're learning].
+- 🌱 I’m currently learning **[SOA]**, focusing on improving my [Web development].
 - 👯 I’m looking to collaborate on **open source projects** and **community-driven initiatives**.
 - 💬 Ask me about **Spring Boot**, **React**, **Docker**, or **Data Science**—I'm always happy to share knowledge!
 - 📫 How to reach me: **[Your Email](mailto:dsoni071rajeswari@example.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/rajeswarid)**.
