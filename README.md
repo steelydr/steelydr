@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Your Name], a passionate developer constantly learning and working on exciting projects in software development and data science. Welcome to my GitHub profile! Here's a bit more about me:
+I'm Depala Rajeswari, a passionate developer constantly learning and working on exciting projects in software development and data science. Welcome to my GitHub profile! Here's a bit more about me:
 
 - 🔭 I’m currently working on **[Your Current Project](https://collabculturevk.com/)**, an innovative project that [brief description of what it does].
 - 🌱 I’m currently learning **[SOA]**, focusing on improving my [Web development].
