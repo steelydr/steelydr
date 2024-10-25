@@ -15,7 +15,7 @@ I'm Depala Rajeswari, a passionate developer constantly learning and working on 
 
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steelydr&theme=black&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steelydr&theme=radical&hide_border=true)
 
 ---
 ### Let's Connect
