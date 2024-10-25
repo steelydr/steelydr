@@ -9,10 +9,8 @@ I'm Depala Rajeswari, a passionate developer constantly learning and working on 
 - 📫 How to reach me: **[My Email](mailto:dsoni071rajeswari@example.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/rajeswarid)**.
 
 ---
-
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=steelydr&show_icons=true&theme=radical)
-
+### Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=steelydr&theme=radical&hide_border=true)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steelydr&layout=compact&theme=radical)
