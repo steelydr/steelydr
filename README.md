@@ -10,7 +10,8 @@ I'm Depala Rajeswari, a passionate developer constantly learning and working on 
 
 ---
 ### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=steelydr&theme=black&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=steelydr&theme=dark&background=000000&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+
 
 
 ### Top Languages
