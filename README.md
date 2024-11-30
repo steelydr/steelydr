@@ -31,3 +31,7 @@ I'm always open to learning new things and collaborating with developers, design
 ### Profile Clicks
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/steelydr/&title=Profile%20Clicks&edge_flat=false)
 
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=steelydr&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/steelydr)
+
+
