@@ -24,3 +24,10 @@ I'm always open to learning new things and collaborating with developers, design
 - 🌐 [Portfolio](https://rajeswaridepalav.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajeswarid)
 - 🐦 [Twitter](https://twitter.com/yourprofile)
+
+### Achievements
+- 🏅 Certified in **AZ-900**, **AI-900**, and **AZ-204**.
+
+### Profile Clicks
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/steelydr/&title=Profile%20Clicks&edge_flat=false)
+
