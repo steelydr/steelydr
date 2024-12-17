@@ -2,7 +2,7 @@
 
 I'm Depala Rajeswari, a passionate developer constantly learning and working on exciting projects in software development and data science. Welcome to my GitHub profile! Here's a bit more about me:
 
-- 🔭 I’m currently working on **[Your Current Project](https://collabculturevk.com/)**, an innovative project that Community to collaborate and create innovative solutions.
+- 🔭 I’m currently working on **[Stocks Application](https://github.com/steelydr/stock_application_app)**, an innovative project that Community to collaborate and create innovative solutions.
 - 🌱 I’m focusing on improving my Web development , AI and ML.
 - 👯 I’m looking to collaborate on **open source projects** and **community-driven initiatives**.
 - 💬 Ask me about **Spring Boot**, **React**, **Docker**, or **Data Science**—I'm always happy to share knowledge!
